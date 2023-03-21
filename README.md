@@ -20,7 +20,7 @@ Je suis actuellement en formation à AFCI de _saint-pol-sur-Mer_ 59430 .
 Je me forme sur le metier du developpeur web et web mobile .  :heart_eyes:  
 
 ## Mes atouts :smirk:
-* Perfectioniste 
-* Ponctuel 
+* Perfectioniste :100:
+* Ponctuel :compass:
 
 
