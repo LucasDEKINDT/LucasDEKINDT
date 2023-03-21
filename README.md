@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there 👋
 
 <!--
 **LucasDEKINDT/LucasDEKINDT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Me concernant 
+Je suis actuellement en formation à AFCI de _saint-pol-sur-Mer_ 59430 .  
+
+Je me forme sur le metier du developpeur web et web mobile .  :heart_eyes:  
+
+## Mes atouts :smirk:
+* Perfectioniste 
+* Ponctuel 
+
+
